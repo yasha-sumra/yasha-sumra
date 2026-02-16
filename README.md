@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm currently working as web dev
+Hey 👋
+I’m a web developer who loves building useful applications with Laravel, Livewire, and CodeIgniter.
 
+I enjoy solving business problems, designing databases, and creating systems that make work faster and easier.
+
+Always learning. Always building.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/sumra-yasha-58a16b249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashasumra5@gmail.com) 
